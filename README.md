@@ -1,16 +1,18 @@
 # neuroassist
 
-A new Flutter project.
+Neuro Assist is a mobile application crafted to support and empower neurodivergent individuals
+through an empathetic blend of technology and personalization.
+
+Designed with inclusivity and flexibility at its heart, Neuro Assist uses cutting-edge AI to
+personalize support and adapt to users' changing needs, helping them thrive in a world that
+often lacks accommodation.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Neurodivergent individuals face:
+• Overwhelm in emotionally intense or overstimulating environments
+• Difficulty transitioning between tasks or activities
+• Barriers to staying focused or productive
+• A lack of accessible, stigma-free tools designed for them, not just adapted to them
+Neuro Assist aims to address these issues holistically through tailored interventions and
+features that prioritize usability, autonomy, and emotional safety.
