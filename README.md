@@ -10,6 +10,7 @@ often lacks accommodation.
 ## Getting Started
 
 Neurodivergent individuals face:
+
 • Overwhelm in emotionally intense or overstimulating environments
 
 • Difficulty transitioning between tasks or activities
