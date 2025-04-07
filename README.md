@@ -11,8 +11,12 @@ often lacks accommodation.
 
 Neurodivergent individuals face:
 • Overwhelm in emotionally intense or overstimulating environments
+
 • Difficulty transitioning between tasks or activities
+
 • Barriers to staying focused or productive
+
 • A lack of accessible, stigma-free tools designed for them, not just adapted to them
+
 Neuro Assist aims to address these issues holistically through tailored interventions and
 features that prioritize usability, autonomy, and emotional safety.
